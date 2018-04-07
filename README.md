@@ -1,4 +1,4 @@
-# GPO-Aduse
+# GPO-Abuse
 
 # Restricted Groups
 Add a principal to a local computer group.
