@@ -2,7 +2,7 @@
 Add an immediate or scheduled task.
 
 ## File Path
-`\Machine\Preferences\ScheduledTasks\ScheduledTasks.xml"`
+`\Machine\Preferences\ScheduledTasks\ScheduledTasks.xml`
 
 ## File Template
 ### Immediate Task
